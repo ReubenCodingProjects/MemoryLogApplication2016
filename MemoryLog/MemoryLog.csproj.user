@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>D:\.NET Projects\Project2\V2-BuildVersions\Mar18\MemoryLogApplication_Mar18\|D:\.NET Projects\Project2\V2-BuildVersions\Mar17\MemroyLog-Appln-After Date Filter Rep2 Issue\|D:\.NET Projects\Project2\V2-BuildVersions\Mar13\MemoryLogApplication-After Moving to Production-RePublish1-Version1\|D:\.NET Projects\Project2\V2-BuildVersions\Mar6\MemoryLogVersion1FinalUpdate Before Moving to Production\|D:\.NET Projects\Project1\V2-BuildVersions\Mar5-Re-PublishVersion1\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
